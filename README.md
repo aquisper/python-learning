@@ -19,4 +19,6 @@ My structured path learning Python for Data Science and Machine Learning.
 - [x] Debugging with PyCharm
 - [x] Lesson 3 — Lists, tuples, sets, dictionaries
 - [x] Lesson 4 — Functions
+- [x] Lesson 5 — Comprehensions
+- [x] Lesson 6 — Error Handling
 
