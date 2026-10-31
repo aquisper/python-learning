@@ -21,4 +21,5 @@ My structured path learning Python for Data Science and Machine Learning.
 - [x] Lesson 4 — Functions
 - [x] Lesson 5 — Comprehensions
 - [x] Lesson 6 — Error Handling
+- [x] Lesson 7 — File I/O +CSV
 

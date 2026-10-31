@@ -1,0 +1,4 @@
+Alonso
+30-10-2026
+I'm learning python
+Added at runtime

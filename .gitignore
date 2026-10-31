@@ -16,8 +16,8 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data
-*.csv
-*.xlsx
-*.parquet
-data/
+# Data — ignore large files only
+data/*.parquet
+data/*.h5
+data/*.pkl
+data/big_*
