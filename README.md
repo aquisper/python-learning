@@ -22,4 +22,15 @@ My structured path learning Python for Data Science and Machine Learning.
 - [x] Lesson 5 — Comprehensions
 - [x] Lesson 6 — Error Handling
 - [x] Lesson 7 — File I/O +CSV
+- [ ] Lesson 8 — Modules and project structure  ⏸ PAUSED — resume after pandas basics
+- [ ] Mini-project 1 — Number guessing game       ⏸ PAUSED
+- [ ] Mini-project 2 — Word frequency counter     ⏸ PAUSED
+- [ ] Mini-project 3 — To-do list with file storage ⏸ PAUSED
 
+
+## Next up
+- Stage 3 — NumPy, pandas, Matplotlib, scikit-learn
+
+## Notes to self
+- Finish Lesson 8 and the 3 mini-projects **after** the pandas/ML basics are solid.
+- Mini-projects are the "build it yourself" muscle. Don't skip forever.
